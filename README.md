@@ -40,6 +40,7 @@ The dashboard highlights trends in customer preferences, order distribution, and
 - **Donut Charts:** Shows sum of orders by Time of day , sum of amount by favorite meal and age groups.  
 ![image](https://github.com/user-attachments/assets/c549f37e-5dca-4ac7-b340-0e0ca8ce6aa4)
 - **Top 5 Lists:** Highlight top customers and dishes.
+  
 ![image](https://github.com/user-attachments/assets/b436288b-f849-44f1-ad5d-583e3d259eb6)  
 
 ## Data Insights  
