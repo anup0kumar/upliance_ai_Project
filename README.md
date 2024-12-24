@@ -1,6 +1,3 @@
-Based on the provided dashboard PDF and your description, here's a concise README.md file for the project:
-
----
 
 # Upliance Assignment 
 
@@ -58,5 +55,3 @@ The dashboard highlights trends in customer preferences, order distribution, and
 - Analyze seasonal trends in dish preferences.  
 
 ---  
-
-Let me know if you'd like any specific revisions or additional details.
